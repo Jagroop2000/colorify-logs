@@ -1,0 +1,23 @@
+{
+  "name": "colorify-logs",
+  "version": "1.0.0",
+  "description": "A Package that colorify the console",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "console log colors",
+    "colorify"
+  ],
+  "author": "Jagroop <jagroopofficial2000@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
+  "files": [
+    "lib/**/*"
+  ]
+}
