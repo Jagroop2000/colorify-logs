@@ -1,5 +1,5 @@
 {
-  "name": "colorify-logs",
+  "name": "colorify-logs-jagroop",
   "version": "1.0.0",
   "description": "A Package that colorify the console",
   "main": "lib/index.js",
